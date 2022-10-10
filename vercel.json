@@ -1,6 +1,0 @@
-{
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/quote/(?<id>[^/]*)", "dest": "/quote/$id.html" }
-  ]
-}
